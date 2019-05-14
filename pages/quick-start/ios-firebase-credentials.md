@@ -3,7 +3,7 @@ title: Adding Firebase credentials to your iOS app
 description: Firebase provides a google-services.json file containing your Firebase project credentials. Learn how to add this to your React Native project.
 ---
 
-# Adding Firebase credentials to your Android app
+# Adding Firebase credentials to your iOS app
 
 Firebase provides a `GoogleService-Info.plist` file containing a set of credentials for iOS devices. 
 React Native Firebase uses this file to ensure any connection to a Firebase project is genuine. 
